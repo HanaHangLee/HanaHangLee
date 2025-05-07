@@ -29,7 +29,6 @@
 > *“The best way to predict the future is to create it.” – Abraham Lincoln*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanaHangLee&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HanaHangLee&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaHangLee&layout=compact&theme=radical)
 
 
