@@ -28,15 +28,6 @@
 
 > *“The best way to predict the future is to create it.” – Abraham Lincoln*
 
-## 📈 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lethimyhang&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethimyhang&layout=compact&theme=radical)
-## 📊 Recent GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lethimyhang&theme=rogue)
-
 
 
 
